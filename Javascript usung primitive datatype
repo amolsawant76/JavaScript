@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<script>
+		var name="amol";
+		var balance=2000;
+		var isvalid=true;
+		var x=undefined;
+		var y;
+		document.write(name+"<br>")
+		document.write(balance+"<br>")
+		document.write(isvalid+"<br>")
+		document.write(x+"<br>")
+		document.write(y+"<br>")
+	</script>
+</body>
+</html>
